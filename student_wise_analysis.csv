@@ -1,0 +1,5 @@
+student_id,predicted_level,confidence,recommendation
+S001,Strong,0.42,Advanced problems and peer mentoring
+S002,Average,0.35,Regular practice with guided support
+S003,Strong,0.49,Advanced problems and peer mentoring
+S004,Average,0.35,Regular practice with guided support
